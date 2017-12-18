@@ -1,2 +1,2 @@
 # Traffic-flow-Data-Analysis
-• Developed a python code using various algorithms to find max flow, min cut and predicted possible traffic jams • Depicted the road network, max flow and min cut with folium maps • Algorithms achieved 90% accurate results when obtained for Buffalo City Traffic Data
+• Took a research paper of bangkok traffic data and with the help of psudo code in research paper, authers guidence, auther's matlab code and Developed a python code using various algorithms to find max flow, min cut and predicted possible traffic jams • Depicted the road network, max flow and min cut with folium maps • Algorithms achieved 90% accurate results when obtained for Buffalo City Traffic Data
